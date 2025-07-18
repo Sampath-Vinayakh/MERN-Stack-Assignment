@@ -1,4 +1,4 @@
-A full-stack web application for managing a collection of books. Built with **Node.js**, **Express.js**, **MongoDB** for the backend, and **React.js** for the frontend.
+<!-- A full-stack web application for managing a collection of books. Built with **Node.js**, **Express.js**, **MongoDB** for the backend, and **React.js** for the frontend. -->
 
 **Application Link**: https://transcendent-sawine-66ff35.netlify.app/
 
