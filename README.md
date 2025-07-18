@@ -16,7 +16,7 @@ A full-stack web application for managing a collection of books. Built with **No
 
 ---
 
-###  Frontend (React.js / Next.js)
+###  Frontend (React.js)
 
 - View list of books
 - Add new book using form
@@ -33,15 +33,14 @@ A full-stack web application for managing a collection of books. Built with **No
 ###  Backend Setup
 
 1. Navigate to the backend directory:
-   cd books-backend
-   create .env file to setup mongo connection
-   npm install
-   npm start
+- cd books-backend
+- create .env file to setup mongo connection
+- npm install
+- npm start
 
 ###  Frontend Setup
 
 1. Navigate to the frontend directory:
-
-  cd books-client
-  npm install
-  npm run dev
+- cd books-client
+- npm install
+- npm run dev
