@@ -12,7 +12,6 @@ A full-stack web application for managing a collection of books. Built with **No
   - Update book details
   - Delete a book
 - MongoDB for persistent storage
-- Input validation using Express middleware
 - Proper error handling with appropriate status codes
 
 ---
