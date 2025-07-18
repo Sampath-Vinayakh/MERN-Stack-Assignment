@@ -33,7 +33,7 @@ A full-stack web application for managing a collection of books. Built with **No
 
 1. Navigate to the backend directory:
 - cd books-backend
-- create .env file to setup mongo connection
+- create .env file and configure
 - npm install
 - npm start
 
