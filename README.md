@@ -24,7 +24,6 @@ A full-stack web application for managing a collection of books. Built with **No
 - Delete a book
 - Search books by title or author
 - Pagination for managing large lists
-- Responsive and clean UI using CSS or a UI framework
 
 ---
 
